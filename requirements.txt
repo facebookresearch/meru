@@ -1,0 +1,13 @@
+ftfy>=6.0
+future==0.18.0
+hydra-core>=1.1
+loguru>=0.6
+nltk>=3.6
+scikit-learn>=1.0
+tensorboard==2.14.0
+tensorflow-datasets>=4.9.0
+torchmetrics>=1.0
+tqdm>=4.50.0
+ujson>=5.0
+webdataset>=0.2
+wordsegment>=1.3
